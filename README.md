@@ -74,3 +74,11 @@ a
 
 موفق باشید.
 
+
+---
+
+## فایل های دانلود شده در گیتهاب شما :
+
+1. [android-studio-panda4-mac_arm](https://github.com/sajjadjafari76/downloader/tree/main/downloads/android-studio-panda4-mac_arm)
+
+---
