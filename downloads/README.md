@@ -1,6 +1,7 @@
 # Downloaded list :
 
 - [android-studio-panda4-mac_arm](./android-studio-panda4-mac_arm)
+- [mhrv-rs-windows-amd64](./mhrv-rs-windows-amd64)
 
 ---
 
